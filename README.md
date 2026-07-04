@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Premkumar
 
-<!--
-**Prem2205/Prem2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer
+🎓 Information Technology student
+🌱 Currently learning React, Node.js, MongoDB & Express
+🚀 Interested in AI, Web Development, Web Designing and Open Source
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Java
+- python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 College event Registration Web app 
+🔹 Expense tracker Application
+🔹 Portfolio Website
+🔹 Task manager web App
+🔹 Waste management Project
+
+## Current Projects 
+🔹 Banking Information application
+
+## Connect with Me
+Instagram: ._.prxmkxmar._22.
+Email: srpremkumar2005@gmail.com
